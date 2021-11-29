@@ -5,6 +5,18 @@
 
 ![Imagen](https://i.imgur.com/FoSpPaN.png)
 
+#### Cosas favoritas de la clase
+- Programacion 
+- Objetos
+- Composicion
+
+#### Pendientes
+- [x] Terminar github
+- [ ] Terminar avance 3 situación problema
+- [ ] Presentar examen final práctico
+- [ ] Pasar la clase
+
+#### Ejemplo de codigo
 ``` c++
 int main() {
     //delaracion del objeto con constructor default y constructor con parametros
