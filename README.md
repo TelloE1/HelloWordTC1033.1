@@ -1,4 +1,4 @@
-# HelloWordTC1033.1
+# HelloWorldTC1033.1
 # Pensamiento computacional orientado a objetos
 ## Eduardo Tello
 ### Carrera - ITC
